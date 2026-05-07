@@ -126,24 +126,28 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Python',
-    'GOlang',
+    'Go',
     'Java',
-    'Angular / Node',
-    'Elasticsearch',
-    'MySQL / Postgres',
-    'MongoDB / CouchDB',
-    'Redis / Kafka',
+    'Python',
+    'C# / .NET',
+    'Kafka',
+    'Redis',
+    'Kubernetes',
+    'Docker / Helm',
     'AWS / GCP',
-    'Gitlab / CI-CD',
-    'Jira / Confluence',
-    'Sentry / New Relic',
-    'Postman / Swagger',
-    'Restful API / RestAPI',
-    'Unit Testing / AB testing',
-    'Microservices / Distributed Systems',
-    'ML / Deep learning',
-    'Transformars and LLMs',
+    'gRPC',
+    'OAuth / OIDC / SAML',
+    'MySQL / Postgres',
+    'MongoDB / Elasticsearch',
+    'Vector Databases',
+    'Observability',
+    'Datadog / New Relic',
+    'CI/CD',
+    'REST APIs',
+    'Distributed Systems',
+    'Event-Driven Architecture',
+    'RAG Pipelines',
+    'LLM Agents',
   ];
 
   return (
@@ -154,25 +158,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! I'm Varshap, and I love developing solutions that really make a difference.
-              Back in 2013, I kicked off my journey by helping local businesses create an online
-              presence. Fast forward to now, I've had the privilege to work in startups and
-              enterprises, soaking up skills across a bunch of cool technologies.
+              I work on backend infrastructure, reliability, developer tooling, and applied AI
+              systems for production environments. My experience spans distributed systems, identity
+              platforms, observability, event-driven architectures, and LLM-powered engineering
+              workflows.
             </p>
 
             <p>
-              My main jam is creating stuff that scales well and brings actual value. I'm also
-              diving into master's program at Concordia Universty to amp up my skills and explore
-              the latest tech buzz, especially diving deep into things like Deep Learning, LLMs, and
-              transformers.
+              Over the past several years, I have worked across IAM platforms, healthcare logistics
+              systems, geolocation infrastructure, real-time analytics pipelines, and AI-powered
+              engineering tooling. I enjoy problems where performance, reliability, and operational
+              simplicity matter.
             </p>
 
             <p>
-              Keen on connecting and chatting about all things tech and innovation!{' '}
-              <span role="img" aria-label="emojis rocket and cmputer">
-                🚀💻
-              </span>
-              .
+              I hold a Master's in Applied Computer Science with a focus in AI from{' '}
+              <a href="https://www.concordia.ca/" target="_blank" rel="noreferrer">
+                Concordia University
+              </a>
+              . Outside work, I enjoy playing guitar, following soccer and hockey, and staying
+              active.
             </p>
 
             <p>Here are the technologies I’ve been working with:</p>

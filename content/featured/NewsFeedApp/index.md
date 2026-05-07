@@ -11,4 +11,6 @@ tech:
   - Android Studio
 ---
 
-NewsFeed and Search App, crafted with Dart and Flutter using newsapi.org, embodies advanced programming practices. With a focus on normalized coding and the BLoC Pattern, the app ensures an efficient user experience, managed by SQLite for the database.
+Flutter news search app built with the BLoC pattern, local SQLite persistence, and NewsAPI
+integration. The project focuses on clean state management, searchable content, and responsive
+mobile data handling.

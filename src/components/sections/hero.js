@@ -61,16 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Varshap Walia.</h2>;
-  const three = <h3 className="big-heading">I code ideas into reality.</h3>;
+  const three = (
+    <h3 className="big-heading">I build backend systems and production AI workflows.</h3>
+  );
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally architecting) scalable
-        tech solutions. Currently, I’m a computer science grad student at{' '}
-        <a href="https://www.concordia.ca/" target="_blank" rel="noreferrer">
-          Concordia
-        </a>
-        .
+        Backend engineer focused on distributed systems, reliability, developer tooling, and
+        production AI infrastructure.
       </p>
     </>
   );
@@ -80,7 +78,7 @@ const Hero = () => {
       href="https://www.linkedin.com/in/varshapwalia/"
       target="_blank"
       rel="noreferrer">
-      Connect @ Linkedin!
+      Connect on LinkedIn
     </a>
   );
 

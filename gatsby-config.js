@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Varshap Walia',
     description:
-      'Varshap Walia is a software engineer who specializes in building (and occasionally architecting) exceptional scalable tech solutions.',
+      'Varshap Walia builds backend systems and production AI workflows focused on scalability, reliability, and developer productivity.',
     siteUrl: 'https://varshapwalia.github.io/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },

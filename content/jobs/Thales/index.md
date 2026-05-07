@@ -1,12 +1,16 @@
 ---
-date: '2023-05-02'
-title: 'Software Developer Intern'
+date: '2025-01-01'
+title: 'Software Engineer'
 company: 'Thales'
+tabLabel: 'Thales'
 location: 'Ottawa, ON, CA'
-range: 'May 2023 - September 2023'
+range: 'Jan 2025 - Present'
 url: 'https://cpl.thalesgroup.com/'
 ---
 
-- Engineered a robust load and performance automation testing pipeline for the enterprise-level microservice application (SafeNet Trusted Access), resulting in a remarkable 250% reduction in manual testing time.
-- Implemented scripts to deliver real-time status and logs of ci/cd pipelines, significantly improving visibility and monitoring capabilities.
-- Authored comprehensive system documentation encompassing detailed flowcharts, user manuals, and implementation guides to ensure clarity and facilitate seamless implementation.
+- Building backend infrastructure and production AI systems for a distributed identity platform serving 1M+ enterprise users.
+- Built an autonomous CI/CD self-healing system using LLM agents that resolves about 35-40% of recurring flaky test failures without human involvement.
+- Reduced p95 latency in critical IAM workflows from about 800ms to under 120ms through query optimization, indexing, and distributed caching.
+- Developed and scaled IAM microservices supporting SAML, OAuth, and OIDC across multi-tenant environments serving 1M+ users.
+- Built a RAG-based incident analysis platform using FAISS retrieval over Jira and observability pipelines, reducing MTTR by an estimated 20-30%.
+- Led an LLM-based .NET 5 to .NET 8 migration framework with multi-pass validation loops, achieving about 82% automation across core feature services.

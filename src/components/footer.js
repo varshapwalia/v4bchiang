@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'development') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/varshapwalia/v4bchiang')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,12 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Built by Brittany Chiang</div>
+        <div>
+          Built by Varshap Walia, based on a design by{' '}
+          <a href="https://brittanychiang.com" target="_blank" rel="noreferrer">
+            Brittany Chiang
+          </a>
+        </div>
 
         {githubInfo.stars && githubInfo.forks && (
           <div className="github-stats">

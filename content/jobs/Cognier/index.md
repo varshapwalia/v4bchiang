@@ -1,11 +1,12 @@
 ---
-date: '2017-03-01'
+date: '2017-06-01'
 title: 'Associate Data Scientist'
 company: 'Cognier Insights'
 location: 'Hyderabad, TL, IN'
-range: 'March 2017 - Nov 2017'
+range: 'Jun 2017 - Oct 2017'
 url: 'https://wellfound.com/company/cognier-1'
 ---
 
-- Upgraded data ingestion pipeline for Samplepop, a B2B trading geo-map web app.
-- Increased system capacity to process 60,000 hits per minute, leading to a 40% boost in real-time analytics responsiveness for local store recommendation engine and visibility index.
+- Worked on backend data infrastructure and analytics systems for Samplepop, a B2B geo-mapping and local store intelligence platform.
+- Improved data ingestion and processing pipelines to support higher-volume real-time analytics workloads.
+- Increased platform throughput to about 60K hits per minute, improving responsiveness of the recommendation engine and visibility analytics by about 40%.

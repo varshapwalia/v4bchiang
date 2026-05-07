@@ -7,8 +7,7 @@ range: 'April 2019 - Feb 2022'
 url: 'https://pinkblue.in/'
 ---
 
-- Spearheaded and Managed POS solution that supported inventory, logistics, and barcode scanning for 1000+ customers (Hospitals) and 4500+ stores (Pharmacies) across India.
-- Optimized logistics, order tracking, Inventory revisions, and payments, reducing delivery times by 29% and order discrepancies by 20%.
-- Led the development of several products E2E, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, monitors, and dashboards.
-- Automated the core marketing experiments, including A/B, Auto-Targeting, and Multivariate Testing.
-- Orchestrated the e-commerce web platform migration from GCP to AWS, also Implemented performance tracking using New Relic and Sentry, reducing downtime incidents by 23%.
+- Identified manual handoff steps inflating delivery error rates and redesigned logistics workflows with automated validation gates, reducing errors by about 17% and saving an estimated $187K annually.
+- Architected and built a POS and logistics platform across 100+ hospitals and 450+ pharmacies, unifying inventory, order processing, and fulfillment as the first system to span both verticals.
+- Led the GCP to AWS migration and improved observability with New Relic and Sentry, reducing incidents by about 23%.
+- Built a real-time pricing engine using inventory and partner data feeds, improving order conversion by about 15%.
