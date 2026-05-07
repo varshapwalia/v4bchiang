@@ -2,11 +2,35 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Varshap Walia',
+    title: 'Varshap Walia | Backend & AI Systems Engineer in Canada',
     description:
-      'Varshap Walia builds backend systems and production AI workflows focused on scalability, reliability, and developer productivity.',
-    siteUrl: 'https://varshapwalia.github.io/', // No trailing slash allowed!
+      'Backend and AI systems engineer in Ottawa, Ontario building scalable distributed systems, IAM platforms, LLM workflows, RAG systems, and developer tooling.',
+    siteUrl: 'https://varshapwalia.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
+    author: 'Varshap Walia',
+    jobTitle: 'Backend & AI Systems Engineer',
+    location: 'Ottawa, Ontario, Canada',
+    email: 'varshwalia@gmail.com',
+    github: 'https://github.com/varshapwalia',
+    linkedin: 'https://www.linkedin.com/in/varshapwalia',
+    keywords: [
+      'Varshap Walia',
+      'Backend Engineer Ontario',
+      'Backend Engineer Canada',
+      'AI Systems Engineer Canada',
+      'LLM Engineer Ontario',
+      'Production AI Workflows',
+      'RAG Pipelines',
+      'LLM Agents',
+      'Distributed Systems',
+      'IAM Engineer',
+      'Go Engineer',
+      'Java Engineer',
+      'Python Engineer',
+      'Kafka',
+      'Kubernetes',
+      'Ottawa Software Engineer',
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

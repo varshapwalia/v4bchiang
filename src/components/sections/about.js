@@ -159,9 +159,9 @@ const About = () => {
           <div>
             <p>
               I work on backend infrastructure, reliability, developer tooling, and applied AI
-              systems for production environments. My experience spans distributed systems, identity
-              platforms, observability, event-driven architectures, and LLM-powered engineering
-              workflows.
+              systems for production environments. Based in Ottawa, Ontario, Canada, my experience
+              spans distributed systems, identity platforms, observability, event-driven
+              architectures, and LLM-powered engineering workflows.
             </p>
 
             <p>

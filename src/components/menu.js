@@ -266,7 +266,10 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
+            <a
+              href="/resume.pdf"
+              className="resume-link"
+              aria-label="Resume for Varshap Walia, Backend and AI Systems Engineer">
               Resume
             </a>
           </nav>
